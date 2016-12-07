@@ -1,4 +1,4 @@
 # Spectre503.github.io
-Creating website
+Trying to create website using Airspace-Jekyll theme
 
 https://spectre503.github.io/
